@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768">
+  <rect width="768" height="768" fill="#fff"/>
+  <text x="614" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#2a2030">BY SHANI</text>
+  <g transform="translate(384 280)">
+    <rect x="-180" y="-180" width="360" height="360" fill="none" stroke="#54217c" stroke-width="7" transform="rotate(45)"/>
+    <circle cx="-54" cy="-12" r="106" fill="#65309a"/>
+    <circle cx="42" cy="-32" r="106" fill="#e2a1ca" opacity=".82"/>
+    <circle cx="53" cy="27" r="106" fill="#d878af"/>
+    <path d="M28-47c28-24 61-16 71 7 6 15-2 34-18 39-18 5-42-7-54-24-14 17-27 35-40 52-18 23-13 53 9 67 25 16 59 4 72-20 11-20 5-44-17-57" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+    <path d="M-5 6c24 16 56 21 82 13" fill="none" stroke="#df8ebc" stroke-width="7"/>
+  </g>
+  <text x="384" y="610" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-weight="bold" fill="#55217c">the icon nail lounge</text>
+  <text x="384" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="6" fill="#32283a">LIFE IS NOT PERFECT BUT UR NAILS CAN BE</text>
+</svg>

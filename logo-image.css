@@ -1,0 +1,1 @@
+.brand{display:flex;align-items:center;letter-spacing:0}.brand-image{display:block;width:142px;height:auto;max-height:58px;object-fit:contain;object-position:left center}.footer-brand-name{font-family:var(--serif);font-size:25px;line-height:.9;letter-spacing:.08em;color:#fff}.footer-brand-name em{color:#d9a0dc;font-size:17px}@media(max-width:800px){.brand-image{width:130px}}
